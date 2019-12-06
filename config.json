@@ -1,0 +1,14 @@
+{
+    "browsertime": {
+      "iterations": 3,
+      "browser": "chrome",
+      "chrome": {
+        "timeline": true,
+        "collectConsoleLog": true
+      },
+      "visualMetrics":false,
+      "video": false
+    },
+    "utc": true
+  }
+  
